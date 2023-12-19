@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STA 104: Introduction to Business Statistics",
+    "section": "",
+    "text": "Week 1\n28/3 - 1/4\n\n\n  \n\n\nTopic 1: Introduction to Statistics\n\nDefinition of statistics\nTerms in statistics\n\nPopulation and sample\n\nParameter and statistic\n\nVariable\n\nCensus and sample survey (sampling)\n\nTypes of statistics\n\nDescriptive statistics\n\nInferential statistics\n\nSources of data\n\nPrimary data\n\nSecondary data\n\nTypes of variable\n\nQualitative data\n\nQuantitative data (Discrete and continuous)\n\nScale of measurement\n\nNominal\n\nOrdinal\n\nInterval\n\nRatio\n\n\n\n\n\n  \n\n\nRemarks\nComplete Entrance Survey\nGuideline Group Project\n\n\n\n\nWeek 2\n\n\n  \n\n\n\nSampling techniques\n\n\nProbability Sampling\n\nSimple random sampling (SRS)\n\nSystematic sampling\n\nStratified sampling\n\nCluster sampling\n\nMultistage sampling\n\nNonprobability Sampling\n\nConvenience sampling\n\nQuota sampling\n\n\n\nData Collection Methods\n\n\n\nInterview (Face to face and telephone)\n\nDirect Observation\n\nQuestionnaire ( self administered, electronic media)\n\nOthers\n\n\n\n\n  \n\n\nRemark:\nDefine term of sampling unit and sampling frame.\nEmphasizing calculation on SRS, systematic and stratified sampling.\nGuidelines to construct the questionnaires.\n\n\n\n\nWeek 3\n\n\n  \n\n\nTopic 2: Describing Data\nData organization and presentation\n\nGraphical method for qualitative data\n\nFrequency Distribution Table\n\nPie Chart\n\nBar chart (Cluster, Stacked)\n\nCross tabulation\n\nGraphical method for quantitative data\n\nFrequency Distribution Table\n\nStem and Leaf\n\nHistogram\n\nFrequency Polygon\n\nOgive\n\nTypes of distribution\n\n\n\n\n  \n\n\nRemarks: Constructing histogram and ogive using graph paper. (compulsory)\n\n\n\n\nWeek 4\n\n\n  \n\n\n\nNumerical methods\n\n\nMeasure of central tendency for ungrouped and grouped\n\nMean\n\nMedian\n\nMode\n\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 5\n\n\n  \n\n\n\nMeasure of position for ungrouped and grouped\n\nQ1, Q2 and Q3\n\nIQR\n\nQuartile deviation\n\nBox and whisker plot\n\n\n\n\n\n  \n\n\nRemarks:\n\n\n\n\nWeek 6\n\n\n  \n\n\n\nMeasure of dispersion for ungrouped and grouped\n\nRange\n\nVariance\n\nStandard deviation\n\n\nCoefficient of variation for ungrouped and grouped\n\nMeasure of skewness for ungrouped and grouped\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 7\n\n\n  \n\n\nTopic 3: Correlation and Regression\n\nCorrelation\n\nDefine dependent and independent variable\n\nScatter Plot\n\nPearson’s correlation coefficient (exclude Spearman’s rank correlation coefficient)\n\n\n\n\n\n  \n\n\nRemark:\nUsing calculator to obtain the Pearson’s Correlation Coefficient and Regression Line Equation by applying Least Square Method. (Substitute all the summation values into the respective formula)"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "STA 104: Introduction to Business Statistics",
+    "section": "",
+    "text": "This course introduces the basic statistical concepts in general applications. The topics include basic concepts of sampling methods, method of data collection, introductory methods in descriptive and inferential statistics. Specific topics include methods of describing data, correlation & regression analysis, time series analysis, index numbers and probability. Students will be exposed to statistical project which involve analyzing primary or secondary data in enhancing their understanding in solving real problems. Statistical Analysis using Excel or SPSS will be introduced.\nWelcome to the QMT181/STA104 Introduction to Statistics CourseWeb. I hope you enjoy it!"
+  },
+  {
+    "objectID": "course-syllabus.html",
+    "href": "course-syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "At the end of the course, students should be able to:\n\nExplain the concept, the use and the application of basic statistical tools in descriptive and inferential statistics. (C2)\nDetermine appropriate statistical solution and interpreting the real world problem. (C5)\nPropose the use of descriptive statistics in the area of computing. (A3)"
+  },
+  {
+    "objectID": "course-syllabus.html#course-learning-outcomes",
+    "href": "course-syllabus.html#course-learning-outcomes",
+    "title": "Syllabus",
+    "section": "",
+    "text": "At the end of the course, students should be able to:\n\nExplain the concept, the use and the application of basic statistical tools in descriptive and inferential statistics. (C2)\nDetermine appropriate statistical solution and interpreting the real world problem. (C5)\nPropose the use of descriptive statistics in the area of computing. (A3)"
+  },
+  {
+    "objectID": "course-syllabus.html#course-description",
+    "href": "course-syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis course introduces the basic statistical concepts in general applications. The topics include basic concepts of sampling methods, method of data collection, introductory methods in descriptive and inferential statistics. Specific topics include methods of describing data, correlation & regression analysis, time series analysis, index numbers and probability. Students will be exposed to statistical project which involve analyzing primary or secondary data in enhancing their understanding in solving real problems. Statistical Analysis using Excel or SPSS will be introduced."
+  },
+  {
+    "objectID": "course-syllabus.html#syllabus-content",
+    "href": "course-syllabus.html#syllabus-content",
+    "title": "Syllabus",
+    "section": "Syllabus Content",
+    "text": "Syllabus Content\n\nIntroduction to Statistics\n\n\n\nDefinition of statistics\n\nTerms in statistics\n\nTypes of statistics\n\nSources of data\n\nTypes of variable\n\nScale of measurement\n\nSampling techniques\n\nData Collection Methods\n\n\nDescribing Data\n\n\n\nData organization and presentation\n\nMeasures of Central Tendency\n\nMeasures of Location\n\nMeasures of Dispersion\n\nMeasures of Skewness\n\n\nCorrelation & Simple Linear Regression\n\n\n\nCorrelation (Pearson’s Product Moment Correlation)\n\nSimple linear regression\n\n\nIndex Numbers\n\n\n\nTypes of index numbers\n\nCalculate and explain unweighted index numbers\n\nCalculate and explain weighted index number\n\n\nTime Series Analysis\n\n\n\nComponent of time series\n\nMultiplicative time series model\n\nTrend Analysis (Moving Average Method)\n\nSeasonal Variations\n\nForecasting\n\n\nProbability\n\n\n\nSet theory\n\nAddition rules\n\nMultiplication rules and conditional probability\n\nCounting Rules (Permutation and Combination)\n\nTree Diagram\n\nBayes’ Theorem"
+  },
+  {
+    "objectID": "course-syllabus.html#teaching-methodology",
+    "href": "course-syllabus.html#teaching-methodology",
+    "title": "Syllabus",
+    "section": "Teaching Methodology",
+    "text": "Teaching Methodology\nLectures, Tutorial, Discussion"
+  },
+  {
+    "objectID": "course-syllabus.html#assessment",
+    "href": "course-syllabus.html#assessment",
+    "title": "Syllabus",
+    "section": "Assessment",
+    "text": "Assessment\n\n\n\nITEM\nWEIGHT\nREMARK \n\n\n\n\nTest 1 (Topic 1 & 2)\n15%\nCLO1\n\n\nTest 2 (Topic 3 & 5)\n15%\nCLO2\n\n\nQuiz (Topic 4)\n5%\nCLO2\n\n\nAssignment (Topic 6)\n5%\nCLO2\n\n\nGroup Project (Topic 1 & Topic 2)\n10%\nCLO3\n\n\nFinal Examination\n50%"
+  },
+  {
+    "objectID": "course-syllabus.html#recommended-text",
+    "href": "course-syllabus.html#recommended-text",
+    "title": "Syllabus",
+    "section": "Recommended Text",
+    "text": "Recommended Text\n\nAllan Bluman, Elementary Statistics: A Step By Step Approach, 8, McGraw-Hill Science/Engineering/Math, 2013, ISBN: 0073534986"
+  },
+  {
+    "objectID": "course-syllabus.html#references",
+    "href": "course-syllabus.html#references",
+    "title": "Syllabus",
+    "section": "References",
+    "text": "References\n\nWilliam G Marchal, Samuel A Wathen Douglas A Lind, Statistical Techniques in Business and Economics - 13th Edition, 13, McGraw Hill Companies, 2007, ISBN: 9780070667075.\n\nPrem S. Mann, Introductory Statistics, 8, John Wiley & Sons, 2010, ISBN: 97804704446652.\n\nMuhammad Rozi, M & Faridah, A.H, Business Statistics, Oxford Fajar Bakti Sdn. Bhd, 2011, ISBN: 13-97898345093.\nLau Too Kya, Phang Yook Ngor, Zainuddin Awang, Statistics for UiTM, 2, Penerbit Fajar Bakti Sdn. Bhd., 2009, ISBN: n/a\n\nHalilah Haron, Understanding Statistics with SPSS, 1, University Publication Center (UPENA), 2010, ISBN: 9789673631520."
+  }
+]

@@ -1,0 +1,70 @@
+---
+title: "Group Project Guidelines"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+## *Project Objectives*
+
+The main objective of this project is to expose the students to the application of statistics techniques towards on the primary/secondary data. Besides that, to overview the students to the Final Year Project report nature.
+
+## *Project Outcomes*
+
+At the end of the project, students should be able:\
+1. Describe the actual data.\
+2. Explain and analyze the appropriate statistics techniques in analyzing the actual data.\
+3. Produce a good class project report.
+
+## *Suggested Guidelines for Project*
+
+### 1. Group Members
+
+Students are required to perform a group with 3 -- 4 members. (The number of members per group depending on the number of students in the class and the number of class)
+
+### 2. Source of Data
+
+Students are allowed to use primary / secondary data. There is no restricted on the number of sample size.
+
+### 3. Cover Page:
+
+Cover page should include UiTM logo, report title, name, student number and group.
+
+### 4. Acknowledgement
+
+### 5. Standard Table of Contents
+
+### 6. Contents of Project
+
+1.  INTRODUCTION\
+    1.1 Background of Study\
+    1.2 Objectives of Study\
+2.  METHODOLOGY\
+    2.1 Description of Data
+    -   Population
+    -   Sample
+    -   Sampling technique
+    -   Data Collection Method
+    -   The descriptions on the variables (variable, types of variable and level measurement) are given as follow.\
+        Example : Insert Image Here\
+        2.2 Method of analysis (Topic 2)\
+3.  FINDINGS\
+    It should include organizing and presenting data supported by numerical descriptive measures
+    -   Use suitable chart/plot/table
+    -   Comment the chart/plot/table\
+4.  FORMATTING
+    -   Font : Arial, 11
+    -   Spacing : 1.5
+    -   Language : English Language
+    -   Length report : Minimum 8 pages including cover page and report content
+
+## *Details od Date Submission*
+
+Please ensure to submit the `hardcopy` and `softcopy` (burn in CD) **BEFORE OR ON WEEK 11.**
+
+------------------------------------------------------------------------

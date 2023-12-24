@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "STA 104: Introduction to Business Statistics",
+    "objectID": "project-description.html",
+    "href": "project-description.html",
+    "title": "Group Project Guidelines",
     "section": "",
-    "text": "Week 1\n28/3 - 1/4\n\n\n  \n\n\nTopic 1: Introduction to Statistics\n\nDefinition of statistics\nTerms in statistics\n\nPopulation and sample\n\nParameter and statistic\n\nVariable\n\nCensus and sample survey (sampling)\n\nTypes of statistics\n\nDescriptive statistics\n\nInferential statistics\n\nSources of data\n\nPrimary data\n\nSecondary data\n\nTypes of variable\n\nQualitative data\n\nQuantitative data (Discrete and continuous)\n\nScale of measurement\n\nNominal\n\nOrdinal\n\nInterval\n\nRatio\n\n\n\n\n\n  \n\n\nRemarks\nComplete Entrance Survey\nGuideline Group Project\n\n\n\n\nWeek 2\n\n\n  \n\n\n\nSampling techniques\n\n\nProbability Sampling\n\nSimple random sampling (SRS)\n\nSystematic sampling\n\nStratified sampling\n\nCluster sampling\n\nMultistage sampling\n\nNonprobability Sampling\n\nConvenience sampling\n\nQuota sampling\n\n\n\nData Collection Methods\n\n\n\nInterview (Face to face and telephone)\n\nDirect Observation\n\nQuestionnaire ( self administered, electronic media)\n\nOthers\n\n\n\n\n  \n\n\nRemark:\nDefine term of sampling unit and sampling frame.\nEmphasizing calculation on SRS, systematic and stratified sampling.\nGuidelines to construct the questionnaires.\n\n\n\n\nWeek 3\n\n\n  \n\n\nTopic 2: Describing Data\nData organization and presentation\n\nGraphical method for qualitative data\n\nFrequency Distribution Table\n\nPie Chart\n\nBar chart (Cluster, Stacked)\n\nCross tabulation\n\nGraphical method for quantitative data\n\nFrequency Distribution Table\n\nStem and Leaf\n\nHistogram\n\nFrequency Polygon\n\nOgive\n\nTypes of distribution\n\n\n\n\n  \n\n\nRemarks: Constructing histogram and ogive using graph paper. (compulsory)\n\n\n\n\nWeek 4\n\n\n  \n\n\n\nNumerical methods\n\n\nMeasure of central tendency for ungrouped and grouped\n\nMean\n\nMedian\n\nMode\n\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 5\n\n\n  \n\n\n\nMeasure of position for ungrouped and grouped\n\nQ1, Q2 and Q3\n\nIQR\n\nQuartile deviation\n\nBox and whisker plot\n\n\n\n\n\n  \n\n\nRemarks:\n\n\n\n\nWeek 6\n\n\n  \n\n\n\nMeasure of dispersion for ungrouped and grouped\n\nRange\n\nVariance\n\nStandard deviation\n\n\nCoefficient of variation for ungrouped and grouped\n\nMeasure of skewness for ungrouped and grouped\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 7\n\n\n  \n\n\nTopic 3: Correlation and Regression\n\nCorrelation\n\nDefine dependent and independent variable\n\nScatter Plot\n\nPearson’s correlation coefficient (exclude Spearman’s rank correlation coefficient)\n\n\n\n\n\n  \n\n\nRemark:\nUsing calculator to obtain the Pearson’s Correlation Coefficient and Regression Line Equation by applying Least Square Method. (Substitute all the summation values into the respective formula)"
+    "text": "The main objective of this project is to expose the students to the application of statistics techniques towards on the primary/secondary data. Besides that, to overview the students to the Final Year Project report nature."
   },
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "STA 104: Introduction to Business Statistics",
+    "objectID": "project-description.html#project-objectives",
+    "href": "project-description.html#project-objectives",
+    "title": "Group Project Guidelines",
     "section": "",
-    "text": "This course introduces the basic statistical concepts in general applications. The topics include basic concepts of sampling methods, method of data collection, introductory methods in descriptive and inferential statistics. Specific topics include methods of describing data, correlation & regression analysis, time series analysis, index numbers and probability. Students will be exposed to statistical project which involve analyzing primary or secondary data in enhancing their understanding in solving real problems. Statistical Analysis using Excel or SPSS will be introduced.\nWelcome to the QMT181/STA104 Introduction to Statistics CourseWeb. I hope you enjoy it!"
+    "text": "The main objective of this project is to expose the students to the application of statistics techniques towards on the primary/secondary data. Besides that, to overview the students to the Final Year Project report nature."
+  },
+  {
+    "objectID": "project-description.html#project-outcomes",
+    "href": "project-description.html#project-outcomes",
+    "title": "Group Project Guidelines",
+    "section": "Project Outcomes",
+    "text": "Project Outcomes\nAt the end of the project, students should be able:\n1. Describe the actual data.\n2. Explain and analyze the appropriate statistics techniques in analyzing the actual data.\n3. Produce a good class project report."
+  },
+  {
+    "objectID": "project-description.html#suggested-guidelines-for-project",
+    "href": "project-description.html#suggested-guidelines-for-project",
+    "title": "Group Project Guidelines",
+    "section": "Suggested Guidelines for Project",
+    "text": "Suggested Guidelines for Project\n\n1. Group Members\nStudents are required to perform a group with 3 – 4 members. (The number of members per group depending on the number of students in the class and the number of class)\n\n\n2. Source of Data\nStudents are allowed to use primary / secondary data. There is no restricted on the number of sample size.\n\n\n3. Cover Page:\nCover page should include UiTM logo, report title, name, student number and group.\n\n\n4. Acknowledgement\n\n\n5. Standard Table of Contents\n\n\n6. Contents of Project\n\nINTRODUCTION\n1.1 Background of Study\n1.2 Objectives of Study\n\nMETHODOLOGY\n2.1 Description of Data\n\nPopulation\nSample\nSampling technique\nData Collection Method\nThe descriptions on the variables (variable, types of variable and level measurement) are given as follow.\nExample : Insert Image Here\n2.2 Method of analysis (Topic 2)\n\n\nFINDINGS\nIt should include organizing and presenting data supported by numerical descriptive measures\n\nUse suitable chart/plot/table\nComment the chart/plot/table\n\n\nFORMATTING\n\nFont : Arial, 11\nSpacing : 1.5\nLanguage : English Language\nLength report : Minimum 8 pages including cover page and report content"
+  },
+  {
+    "objectID": "project-description.html#details-od-date-submission",
+    "href": "project-description.html#details-od-date-submission",
+    "title": "Group Project Guidelines",
+    "section": "Details od Date Submission",
+    "text": "Details od Date Submission\nPlease ensure to submit the hardcopy and softcopy (burn in CD) BEFORE OR ON WEEK 11."
   },
   {
     "objectID": "course-syllabus.html",
@@ -68,5 +89,19 @@
     "title": "Syllabus",
     "section": "References",
     "text": "References\n\nWilliam G Marchal, Samuel A Wathen Douglas A Lind, Statistical Techniques in Business and Economics - 13th Edition, 13, McGraw Hill Companies, 2007, ISBN: 9780070667075.\n\nPrem S. Mann, Introductory Statistics, 8, John Wiley & Sons, 2010, ISBN: 97804704446652.\n\nMuhammad Rozi, M & Faridah, A.H, Business Statistics, Oxford Fajar Bakti Sdn. Bhd, 2011, ISBN: 13-97898345093.\nLau Too Kya, Phang Yook Ngor, Zainuddin Awang, Statistics for UiTM, 2, Penerbit Fajar Bakti Sdn. Bhd., 2009, ISBN: n/a\n\nHalilah Haron, Understanding Statistics with SPSS, 1, University Publication Center (UPENA), 2010, ISBN: 9789673631520."
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "STA 104: Introduction to Business Statistics",
+    "section": "",
+    "text": "This course introduces the basic statistical concepts in general applications. The topics include basic concepts of sampling methods, method of data collection, introductory methods in descriptive and inferential statistics. Specific topics include methods of describing data, correlation & regression analysis, time series analysis, index numbers and probability. Students will be exposed to statistical project which involve analyzing primary or secondary data in enhancing their understanding in solving real problems. Statistical Analysis using Excel or SPSS will be introduced.\nWelcome to the QMT181/STA104 Introduction to Statistics CourseWeb. I hope you enjoy it!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STA 104: Introduction to Business Statistics",
+    "section": "",
+    "text": "Week 1\n28/3 - 1/4\n\n\n  \n\n\nTopic 1: Introduction to Statistics\n\nDefinition of statistics\nTerms in statistics\n\nPopulation and sample\n\nParameter and statistic\n\nVariable\n\nCensus and sample survey (sampling)\n\nTypes of statistics\n\nDescriptive statistics\n\nInferential statistics\n\nSources of data\n\nPrimary data\n\nSecondary data\n\nTypes of variable\n\nQualitative data\n\nQuantitative data (Discrete and continuous)\n\nScale of measurement\n\nNominal\n\nOrdinal\n\nInterval\n\nRatio\n\n\n\n\n\n  \n\n\nRemarks\nComplete Entrance Survey\nGuideline Group Project\n\n\n\n\nWeek 2\n\n\n  \n\n\n\nSampling techniques\n\n\nProbability Sampling\n\nSimple random sampling (SRS)\n\nSystematic sampling\n\nStratified sampling\n\nCluster sampling\n\nMultistage sampling\n\nNonprobability Sampling\n\nConvenience sampling\n\nQuota sampling\n\n\n\nData Collection Methods\n\n\n\nInterview (Face to face and telephone)\n\nDirect Observation\n\nQuestionnaire ( self administered, electronic media)\n\nOthers\n\n\n\n\n  \n\n\nRemark:\nDefine term of sampling unit and sampling frame.\nEmphasizing calculation on SRS, systematic and stratified sampling.\nGuidelines to construct the questionnaires.\n\n\n\n\nWeek 3\n\n\n  \n\n\nTopic 2: Describing Data\nData organization and presentation\n\nGraphical method for qualitative data\n\nFrequency Distribution Table\n\nPie Chart\n\nBar chart (Cluster, Stacked)\n\nCross tabulation\n\nGraphical method for quantitative data\n\nFrequency Distribution Table\n\nStem and Leaf\n\nHistogram\n\nFrequency Polygon\n\nOgive\n\nTypes of distribution\n\n\n\n\n  \n\n\nRemarks: Constructing histogram and ogive using graph paper. (compulsory)\n\n\n\n\nWeek 4\n\n\n  \n\n\n\nNumerical methods\n\n\nMeasure of central tendency for ungrouped and grouped\n\nMean\n\nMedian\n\nMode\n\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 5\n\n\n  \n\n\n\nMeasure of position for ungrouped and grouped\n\nQ1, Q2 and Q3\n\nIQR\n\nQuartile deviation\n\nBox and whisker plot\n\n\n\n\n\n  \n\n\nRemarks:\n\n\n\n\nWeek 6\n\n\n  \n\n\n\nMeasure of dispersion for ungrouped and grouped\n\nRange\n\nVariance\n\nStandard deviation\n\n\nCoefficient of variation for ungrouped and grouped\n\nMeasure of skewness for ungrouped and grouped\n\n\n\n\n  \n\n\nRemarks:\nUsing calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)\nInterpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)\n\n\n\n\nWeek 7\n\n\n  \n\n\nTopic 3: Correlation and Regression\n\nCorrelation\n\nDefine dependent and independent variable\n\nScatter Plot\n\nPearson’s correlation coefficient (exclude Spearman’s rank correlation coefficient)\n\n\n\n\n\n  \n\n\nRemark:\nUsing calculator to obtain the Pearson’s Correlation Coefficient and Regression Line Equation by applying Least Square Method. (Substitute all the summation values into the respective formula)"
   }
 ]

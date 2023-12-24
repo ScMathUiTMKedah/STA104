@@ -1,0 +1,31 @@
+{
+    "id": "5DE7440F",
+    "path": "~/GitHub/STA104/project-description.qmd",
+    "project_path": "project-description.qmd",
+    "type": "quarto_markdown",
+    "hash": "298562810",
+    "contents": "",
+    "dirty": false,
+    "created": 1703422234268.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "67,53",
+        "scrollLine": "54",
+        "rmdVisualModeLocation": "1812:1335.199951171875"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1703422679,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1703422679443,
+    "read_only": false,
+    "read_only_alternatives": []
+}

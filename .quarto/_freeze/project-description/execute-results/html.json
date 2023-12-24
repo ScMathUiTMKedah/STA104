@@ -1,0 +1,16 @@
+{
+  "hash": "ce2116edeefdf701358254a9d03b9052",
+  "result": {
+    "markdown": "---\ntitle: \"Group Project Guidelines\"\n---\n\n\n\n\n## *Project Objectives*\n\nThe main objective of this project is to expose the students to the application of statistics techniques towards on the primary/secondary data. Besides that, to overview the students to the Final Year Project report nature.\n\n## *Project Outcomes*\n\nAt the end of the project, students should be able:\\\n1. Describe the actual data.\\\n2. Explain and analyze the appropriate statistics techniques in analyzing the actual data.\\\n3. Produce a good class project report.\n\n## *Suggested Guidelines for Project*\n\n### 1. Group Members\n\nStudents are required to perform a group with 3 -- 4 members. (The number of members per group depending on the number of students in the class and the number of class)\n\n### 2. Source of Data\n\nStudents are allowed to use primary / secondary data. There is no restricted on the number of sample size.\n\n### 3. Cover Page:\n\nCover page should include UiTM logo, report title, name, student number and group.\n\n### 4. Acknowledgement\n\n### 5. Standard Table of Contents\n\n### 6. Contents of Project\n\n1.  INTRODUCTION\\\n    1.1 Background of Study\\\n    1.2 Objectives of Study\\\n2.  METHODOLOGY\\\n    2.1 Description of Data\n    -   Population\n    -   Sample\n    -   Sampling technique\n    -   Data Collection Method\n    -   The descriptions on the variables (variable, types of variable and level measurement) are given as follow.\\\n        Example : Insert Image Here\\\n        2.2 Method of analysis (Topic 2)\\\n3.  FINDINGS\\\n    It should include organizing and presenting data supported by numerical descriptive measures\n    -   Use suitable chart/plot/table\n    -   Comment the chart/plot/table\\\n4.  FORMATTING\n    -   Font : Arial, 11\n    -   Spacing : 1.5\n    -   Language : English Language\n    -   Length report : Minimum 8 pages including cover page and report content\n\n## *Details od Date Submission*\n\nPlease ensure to submit the `hardcopy` and `softcopy` (burn in CD) **BEFORE OR ON WEEK 11.**\n\n------------------------------------------------------------------------\n",
+    "supporting": [
+      "project-description_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
